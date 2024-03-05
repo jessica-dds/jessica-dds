@@ -7,6 +7,8 @@
 <br/>• ☀️ Sou soteropolitana, 📚 bibliófila e 👶👦 mãe de dois meninos.
 <br/>
 <br/>
+<br/>
+<br/>
 
 
 
@@ -18,8 +20,11 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJs icon">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub icon">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode icon">
-<p>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Insomnia-%235834CC.svg?style=for-the-badge&logo=insomnia&logoColor=white">
 
+<br/>
+<br/>
 <br/>
 <br/>
 
