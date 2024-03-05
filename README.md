@@ -1,4 +1,4 @@
-<h3 align="center"><i>Sou desenvolvedora de Software - Full Stack 👩🏽‍💻</i></h3>
+<h3 align="center"><i>Olá, o meu nome é Jéssica Gleizer. Sou desenvolvedora de Software - Full Stack 👩🏽‍💻</i></h3>
 <div align="center">
     <img src = "image.gif" max-height="400"/>
 </div>
