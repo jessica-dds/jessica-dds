@@ -1,13 +1,12 @@
-<h2 align="center">Olá, o meu nome é Jéssica Gleizer! 👩🏽‍💻</h2>
+<h2 align="center">Olá, o meu nome é Jéssica Gleizer!</h2>
 
-
-<h3 align="center"><i>Full Stack Software Developer</i></h3>
+<h3 align="center"><i>Desenvolvedora de Software - Full Stack  👩🏽‍💻</i></h3>
 <div align="center">
     <img src = "image.gif" max-height="400"/>
 </div>
 
 
-<h3 align="center">Contacts</h3>
+<h3 align="center">Contatos</h3>
 
 <p align="center">
     <a href="https://linkedin.com/in/jessicagleizer">
@@ -20,6 +19,6 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon" >
 <p>
 
-## Languages and Tools
+## Linguagens e Ferramentas
 
-## Github Stats  
+## Estatísticas do Github
