@@ -1,6 +1,6 @@
-<h2 align="center">Olá, o meu nome é Jéssica Gleizer!</h2>
-
-<h3 align="center"><i>Desenvolvedora de Software - Full Stack  👩🏽‍💻</i></h3>
+<h3 align="center"><i>Olá, o meu nome é Jéssica Gleizer!
+    Sou desenvolvedora de Software - Full Stack 
+    👩🏽‍💻</i></h3>
 <div align="center">
     <img src = "image.gif" max-height="400"/>
 </div>
@@ -19,6 +19,13 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon" >
 <p>
 
+
 ## Linguagens e Ferramentas
 
 ## Estatísticas do Github
+
+<div>
+<a href="https://github.com/jessica-dds">
+<img height-"180em" src="https://github-readme-stats.vercel.app/api?username=jessica-dds&show_icons=true&theme=dracula&include_all_commits=true&count_private-true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-dds&layout=compact&langs_count-16&theme=dracula"/>
+</div>
