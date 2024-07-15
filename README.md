@@ -12,7 +12,6 @@
 
 
 
-
 ### 🚀 Skills:
 
 <p align=>
@@ -21,6 +20,8 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript icon">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL icon">
+
+
 
 
 ### 💻 Tools:
@@ -37,12 +38,10 @@
 
 
 
-
 <br/>
 <br/>
 <br/>
 <br/>
-
 
 
 
@@ -50,7 +49,6 @@
 
 <div>
 <a href="https://github.com/jessica-dds">
-<img height-"180em" src="https://github-readme-stats.vercel.app/api?username=jessica-dds&show_icons=true&theme=dracula&include_all_commits=true&count_private-true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-dds&layout=compact&langs_count-16&theme=dracula"/>
 </div>
 <br/>
