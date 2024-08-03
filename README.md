@@ -1,10 +1,11 @@
 ### 💜 Olá. O meu nome é Jéssica Gleizer!
 
+
 <br/>
-<br/>• 🌎 A minha formação acadêmica é a Geografia - licenciatura e mestrado;
-<br/>• 👩🏽‍💻 Atualmente estudando desenvolvimento de Software - Full Stack</i> na <a href="https://github.com/cubos-academy">@cubosacademy</a>;
-<br/>• 🎯 Estou totalmente focada em minha transição de carreira;
-<br/>• ☀️ Sou soteropolitana, 📚 bibliófila e 👶👦 mãe de dois meninos.
+<br/> 💻 Eu sou desenvolvedora Fullstack;
+<br/> 👩🏽‍💻 Atualmente estudo desenvolvimento de Software - Full Stack</i> na <a href="https://github.com/cubos-academy">@cubosacademy</a>;
+<br/> 🎯 Estou totalmente focada em minha transição de carreira;
+<br/> ☀️ Sou soteropolitana, 📚 bibliófila e 👶👦 mãe de dois meninos.
 <br/>
 <br/>
 <br/>
